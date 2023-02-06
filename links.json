@@ -1,0 +1,14 @@
+{
+    "links": [
+        {
+            "link":"https://support.brukerspr.com/",
+            "text":"Support",
+            "image":"./assets/SPR24pro.png"
+        },
+        {
+            "link":"https://bruker-labscape.store/collections/all-spr-items",
+            "text":"Webshop",
+            "image":"./assets/Labscape.png"
+        }
+    ]
+}
