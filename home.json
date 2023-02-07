@@ -66,8 +66,7 @@
         {
             "link": "https://chat.openai.com/chat",
             "text": "ChatGPT",
-            "image": "./assets/Logo_Bruker.svg",
-            "imageSize": {
+            "image": {
                 "name": "svg",
                 "type": "element",
                 "value": "",
@@ -91,6 +90,7 @@
                     }
                 ]
             },
+            "imageSize": "50px",
             "initialFontSize": "14",
             "textRows": "1",
             "textMaxRows": "2",
